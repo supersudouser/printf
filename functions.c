@@ -12,6 +12,7 @@
  * @size: Size specifier
  * Return: Number of chars printed
  * Written by Kebron Araya and Godswill Ubah
+ */
 int print_char(va_list types, char buffer[],
 	int flags, int width, int precision, int size)
 {
