@@ -20,7 +20,7 @@
 
 /**
  * struct fmt - Struct op
- *
+ * Written by Kebron Araya and Godswill Ubah
  * @fmt: The format.
  * @fn: The function associated.
  */
