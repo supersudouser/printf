@@ -3,9 +3,9 @@
 #include "main.h"
 
 /**
- * main - Entry point
- * Written by Kebron Araya and Godswill Ubah
- * Return: Always 0
+ * main - Entry point.
+ * Written by Kebron Araya and Godswill Ubah.
+ * Return: Always 0.
  */
 int main(void)
 {
