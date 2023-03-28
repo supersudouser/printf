@@ -6,6 +6,7 @@
  * @i: take a parameter.
  * Return: Flags:
  * Written by Kebron Araya and Godswill Ubah.
+ */
 int get_flags(const char *format, int *i)
 {
 	/* - + 0 # ' ' */
