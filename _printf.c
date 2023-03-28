@@ -6,7 +6,7 @@ void print_buffer(char buffer[], int *buff_ind);
  * _printf - Printf function
  * @format: format.
  * Return: Printed chars.
- */
+ * Written by Kebron Araya and Godswill Ubah.
 int _printf(const char *format, ...)
 {
 	int i, printed = 0, printed_chars = 0;
@@ -38,7 +38,7 @@ int _printf(const char *format, ...)
 			size = get_size(format, &i);
 			++i;
 			printed = handle_print(format, &i, list, buffer,
-				flags, width, precision, size);
+					       flags, width, precision, size);
 			if (printed == -1)
 				return (-1);
 			printed_chars += printed;
@@ -64,3 +64,4 @@ void print_buffer(char buffer[], int *buff_ind)
 
 	*buff_ind = 0;
 }
+
