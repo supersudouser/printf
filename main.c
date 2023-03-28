@@ -4,8 +4,8 @@
 
 /**
  * main - Entry point
- * Return: Always 0.
- * Written by Kebron Araya and Godswill Ubah.
+ * Written by Kebron Araya and Godswill Ubah
+ * Return: Always 0
  */
 int main(void)
 {
