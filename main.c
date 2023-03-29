@@ -3,9 +3,15 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
- * Return: Always 0
+<<<<<<< HEAD
+ * main - Entry poin.
+ * Written by Kebron Araya and Godswill Ubah.
+ * Return: Always 0.
+=======
+ * main - Entry point.
+ * Written by Kebron Araya and Godswill Ubah.
+ * Return: Always 0.
+>>>>>>> f8a2bfa3165c3908681b9dca977aeee079d19dad
  */
 int main(void)
 {

@@ -1,8 +1,12 @@
 # 0x11. C - printf
-> ALX Software Engineering Group Project on C programming. Project to be done in teams of 2 people (your team: Kebron araya, Godswill Ubah). Project will start Mar 24, 2023 6:00 AM, must end by Mar 29, 2023 7:00 AM. An auto review will be launched at the deadline
+> ALX Software Engineering, Group Project on C programming. Project to be done in teams of 2 people (your team: Kebron araya, Godswill Ubah). The project will start Mar 24, 2023 6:00 AM, must end by Mar 29, 2023 7:00 AM. An auto review will be launched at the deadline
+
+
 
 
 ![Example screenshot](./img/printf.png)
+
+
 
 
 
@@ -106,10 +110,10 @@ Print the string of characters in "Hello World":
 
 
 ## Status
-Project is **finished**
+The project is **finished**
 
 
-## Contacts
+## Contributors
 **Created** **by** [@kbtisuu](https://github.com/kbtisuu) **and**  [@godswillubah](https://github.com/godswillubah)
 
 
