@@ -114,6 +114,6 @@ The project is **finished**
 
 
 ## Contributors
-**Created** **by** [@kbtisuu](https://github.com/kbtisuu) **and**  [@godswillubah](https://github.com/supersudouser)
+**Created** **by** [kbtisuu](https://github.com/kbtisuu) **and**  [supersudouser](https://github.com/supersudouser)
 
 
