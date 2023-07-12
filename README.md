@@ -14,7 +14,7 @@
 * [Concepts](#concepts)
 * [Requirements](#requirements)
 * [Compilation](#compilation)
-* [Code_Example](#code_example)
+* [Code Example](#code_example)
 * [Tasks](#tasks)
 * [Status](#status)
 * [Contact](#contact)
@@ -114,6 +114,6 @@ The project is **finished**
 
 
 ## Contributors
-**Created** **by** [@kbtisuu](https://github.com/kbtisuu) **and**  [@godswillubah](https://github.com/godswillubah)
+**Created** **by** [@kbtisuu](https://github.com/kbtisuu) **and**  [@godswillubah](https://github.com/supersudouser)
 
 
