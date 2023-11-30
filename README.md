@@ -70,7 +70,7 @@ $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
 * If the task does not specify what to do with an edge case, do the same as ```printf```
 
 
-## Code Example
+## Example
 Print the string of characters in "Hello World":
 
 **Input:** 
@@ -112,5 +112,9 @@ _printf("Hello World!");
 
 ## Status
 The project is **finished**
+
+## Contributors
+* [Kebron Araya](github.com/kbtisuu)
+* [supersudouer](github.com/supersudouser)
 
 
