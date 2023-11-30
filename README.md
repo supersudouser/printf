@@ -1,5 +1,6 @@
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+
 # 0x11. C - printf
-> ALX Software Engineering, Group Project on C programming. Project to be done in teams of 2 people (your team: Kebron araya, Godswill Ubah). The project will start Mar 24, 2023 6:00 AM, must end by Mar 29, 2023 7:00 AM. An auto review will be launched at the deadline
 
 
 
@@ -11,17 +12,20 @@
 
 
 ## Table of contents
+* [Description](#description)
 * [Concepts](#concepts)
 * [Requirements](#requirements)
 * [Compilation](#compilation)
-* [Code Example](#code_example)
+* [Code Example](#example)
 * [Tasks](#tasks)
 * [Status](#status)
 * [Contact](#contact)
 
+## Description
+This is a collaboration project between Godswill Ubah and Kebron Araya who are both students in the ALX Africa software engineering program. In this project we were asked to create our own _printf() function, that replicates the standard printf() function in the  <stdio.h> library.
 
 ## Concepts
-For this project, we expect you to look at these concepts:
+For this project, we are expected to look at these concepts:
 
 * Printf function in C
     * Prints a string to the standard output according to a given format.
@@ -66,12 +70,12 @@ $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
 * If the task does not specify what to do with an edge case, do the same as ```printf```
 
 
-## Code_Example
+## Code Example
 Print the string of characters in "Hello World":
 
 **Input:** 
 ```c
-printf("Hello World!");
+_printf("Hello World!");
 ```
 **Output:**
 ```c
@@ -94,7 +98,6 @@ printf("Hello World!");
 * You don’t have to handle precision
 * You don’t have to handle the length modifiers
 
-**Solution:** 
 
 ### 1. Education is when you read the fine print. Experience is what you get if you don't
 >Handle the following conversion specifiers:
@@ -106,14 +109,8 @@ printf("Hello World!");
 * You don’t have to handle precision
 * You don’t have to handle the length modifiers
 
-**Solution:** 
-
 
 ## Status
 The project is **finished**
-
-
-## Contributors
-**Created** **by** [kbtisuu](https://github.com/kbtisuu) **and**  [supersudouser](https://github.com/supersudouser)
 
 
