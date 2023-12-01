@@ -22,14 +22,14 @@
 * [Contact](#contact)
 
 ## Description
-This is a collaboration project between Godswill Ubah and Kebron Araya who are both students in the ALX Africa software engineering program. In this project we were asked to create our own _printf() function, that replicates the standard printf() function in the  <stdio.h> library.
+This is a collaboration project between Godswill Ubah and Kebron Araya who are both students in the ALX Africa software engineering program. In this project we were asked to create our own ```_printf()``` function, that replicates the standard printf() function in the  ```<stdio.h>``` library.
 
 ## Concepts
 For this project, we are expected to look at these concepts:
 
 * Printf function in C
     * Prints a string to the standard output according to a given format.
-    * The \_printf() is a variadic function that accepts arguments and replaces the tags written in the strings.
+    * The ```\_printf()``` is a variadic function that accepts arguments and replaces the tags written in the strings.
     * If the program runs successfully, the return value is the amount of chars printed or -1 otherwise.
 * Group Projects
 * Pair Programming
@@ -114,7 +114,8 @@ _printf("Hello World!");
 The project is **finished**
 
 ## Contributors
+The provided content was developed in collaboration with the following students:
 * [Kebron Araya](github.com/kbtisuu)
-* [supersudouer](github.com/supersudouser)
+* [Godswill Ubah](github.com/supersudouser)
 
 
