@@ -116,6 +116,6 @@ The project is **finished**
 ## Contributors
 The provided content was developed in collaboration with the following students:
 * [Kebron Araya](github.com/kbtisuu)
-* [Godswill Ubah](github.com/supersudouser)
+* [Godswill Ubah](github.com/godswillubah)
 
 
